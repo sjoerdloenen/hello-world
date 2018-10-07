@@ -5,3 +5,5 @@ New modification: Modified during "Tortoisegit Tutorial 4" (07/10/2018 - 15:49)
 New modification: Modified during "Tortoisegit Tutorial 4" (07/10/2018 - 15:56)
 
 New modification: Modified during "Tortoisegit Tutorial 5" (07/10/2018 - 17:19)
+
+New modification (redo a pull command through tortoiseGit): Modified during "Tortoisegit Tutorial 5" (07/10/2018 - 17:19)
